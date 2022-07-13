@@ -1,7 +1,7 @@
 # BlackJack.py
 # MyfirstProjects
 
-# Created by Dmytro Lytvynenko 7/10/2022
+# Created by Dmytro Lytvynenko 6/20/2022
 # This project was created during some Python course in which I was enrolled
 
 
